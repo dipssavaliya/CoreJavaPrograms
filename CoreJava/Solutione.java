@@ -1,5 +1,4 @@
-package com.example.demo;
-
+package CoreJava;
 import java.util.*;
 interface AdvancedArithmetic{
   int divisor_sum(int n);

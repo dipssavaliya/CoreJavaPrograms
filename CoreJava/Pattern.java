@@ -1,4 +1,4 @@
-package com.example.demo;
+package CoreJava;
 
 public class Pattern {
 	

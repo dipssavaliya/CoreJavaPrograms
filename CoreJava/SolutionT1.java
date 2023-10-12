@@ -1,5 +1,4 @@
-package com.example.demo;
-
+package CoreJava;
 
 import java.io.*;
 import java.math.*;

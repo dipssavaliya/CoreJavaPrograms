@@ -1,4 +1,4 @@
-package com.example.demo;
+package CoreJava;
 
 import java.util.HashMap;
 import java.util.Scanner;

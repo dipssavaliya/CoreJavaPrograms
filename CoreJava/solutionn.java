@@ -1,4 +1,4 @@
-package com.example.demo;
+package CoreJava;
 
 import java.math.BigDecimal;
 import java.util.*;
