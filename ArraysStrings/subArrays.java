@@ -1,4 +1,4 @@
-package CoreJavaPrograms.ArraysStrings;
+package ArraysStrings;
 
 public class subArrays
 {
